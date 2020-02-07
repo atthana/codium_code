@@ -1,3 +1,6 @@
+# Make sure that we run redis server already by "redis-server"
+# After run redis-server, we can tested by "redis-cli" and type "ping" for testing.
+
 import helloRedis
 
 
