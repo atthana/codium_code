@@ -1,2 +1,8 @@
 # codium_code
-Testing on 7Feb20
+Testing on 7Feb20 <br><br>
+
+4.(Python specific) In Python, what is the difference between else and finally in exception handling
+
+<b>else : it will execute in this block when not having exception in program.
+
+<b>finally : always work in the finally block in all cases (no matter an exception occurred or not).
